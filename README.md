@@ -1,5 +1,7 @@
 ### I'm just a Stanley for now executing instructions that appear on my screen. Waiting for the moment they stop coming so i can go and find my own special bucket.  
 
+#### On another note, github needs the feature to group repositories without putting them into organizations. It's the one thing gitlab has an upper hand and it's sorely missed here.
+
 <!--
 **adaol322/adaol322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
