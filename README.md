@@ -1,5 +1,3 @@
-#### Who am I
-
 This is the story of a man named Stanley.
 Stanley worked for a company in a big building where he was Employee #427. 
 Employee #427's job was simple: he sat at his desk in Room 427 and he pushed buttons on a keyboard. 
