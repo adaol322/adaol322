@@ -2,7 +2,7 @@
 
 #### On another note, github needs the feature to group repositories without putting them into organizations. It's the one thing gitlab has an upper hand and it's sorely missed here.
 
-## &#x1f4c8; GitHub Stats
+## :eyes: GitHub Stats
 
 ![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=adaol322)
 
