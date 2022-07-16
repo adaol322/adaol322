@@ -16,6 +16,8 @@ But as he came to his wits and regained his senses, he got up from his desk and 
 
 #### On another note, github needs the feature to group repositories without putting them into organizations. It's the one thing gitlab has an upper hand and it's sorely missed here.
 
+## Appratentli i like setting up projects and never getting to even start them.
+
 ___
 
 #### :eyes: GitHub Stats
