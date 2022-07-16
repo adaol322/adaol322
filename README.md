@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm just a Stanley for now executing instructions that appear on my screen. Waiting for the moment they stop coming so i can go and find my own special bucket.  
 
 <!--
 **adaol322/adaol322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
